@@ -8,6 +8,8 @@ public class FunWithNumberData_01 {
         byte byteValue = 0b01101011;
         System.out.println(byteValue);
 
+        System.out.println("for github and all the glory!!");
+
         System.out.println("---------- program ended ----------");
     }
 
