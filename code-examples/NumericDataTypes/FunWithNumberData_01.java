@@ -14,8 +14,8 @@ public class FunWithNumberData_01 {
         double myDouble = 3.14159265359;
     
 
-        byte byteValue =  0b01101011;
-        System.out.println(byteValue);
+        double myValue =  56;
+        System.out.println(myValue);
 
         System.out.println("for github and all the glory!!");
 
