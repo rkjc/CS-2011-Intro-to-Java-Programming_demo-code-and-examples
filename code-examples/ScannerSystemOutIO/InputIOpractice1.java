@@ -1,3 +1,4 @@
+package ScannerSystemOutIO;
 import java.util.Scanner;
 
 public class InputIOpractice1 {

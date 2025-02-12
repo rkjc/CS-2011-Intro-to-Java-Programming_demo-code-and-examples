@@ -1,4 +1,4 @@
-package LectureCodeExamples;
+package ScannerSystemOutIO;
 
 import java.util.Scanner;
 
