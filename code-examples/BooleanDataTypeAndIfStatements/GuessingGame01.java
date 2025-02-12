@@ -15,77 +15,77 @@ public class GuessingGame01 {
         numCheck = "0";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;
         }
 
         numCheck = "1";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;
         }
 
         numCheck = "2";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;        
         }
 
         numCheck = "3";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;        
         }
 
         numCheck = "4";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;        
         }
 
         numCheck = "5";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;        
         }
 
         numCheck = "6";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;        
         }
 
         numCheck = "7";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;        
         }
 
         numCheck = "8";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;       
         }
 
         numCheck = "9";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;       
         }
 
         numCheck = "10";
         System.out.print("Is your number "+numCheck+"? (y/n) ");
         uguess = zanner.nextLine();
-        if(uguess == "y"){
+        if(uguess.equals("y")){
             userNum = numCheck;    
         }
 
