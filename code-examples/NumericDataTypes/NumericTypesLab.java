@@ -1,3 +1,5 @@
+package NumericDataTypes;
+
 import java.util.Scanner;
 
 public class NumericTypesLab {

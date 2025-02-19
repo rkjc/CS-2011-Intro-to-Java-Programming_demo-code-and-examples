@@ -48,6 +48,8 @@ public class CompareStrings {
             System.out.println("the string is NOT a y");
         }
 
+        zanner.close();
+        
         System.out.println("-------- program ended ---------");
     } 
 }

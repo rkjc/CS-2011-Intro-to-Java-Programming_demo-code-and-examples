@@ -45,6 +45,9 @@ public class SwitchStatement01 {
                 break;
         }
 
+        zanner.close();
+
+
         System.out.println("-------- program ended ---------");
     } 
 }

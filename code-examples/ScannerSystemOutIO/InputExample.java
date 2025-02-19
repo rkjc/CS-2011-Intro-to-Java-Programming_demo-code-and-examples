@@ -2,7 +2,6 @@ package ScannerSystemOutIO;
 
 import java.util.Scanner;
 
-
 public class InputExample {
 
     public static void main(String[] args) {

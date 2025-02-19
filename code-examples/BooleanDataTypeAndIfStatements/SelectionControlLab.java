@@ -9,10 +9,10 @@ public class SelectionControlLab {
         
         // Step 2: Prompt the user to enter two integers
         System.out.print("Enter the first integer: ");
-        int num1 = //TODO: use Scanner to get next input
+        int num1 = 0; //TODO: use Scanner to get next input
         
         System.out.print("Enter the second integer: ");
-        int num2 = //TODO: use Scanner to get next input
+        int num2 = 0; //TODO: use Scanner to get next input
 
         // Step 3: Write a one-way if statement to compare num1 and num2 and only print the following message if the condition is met
        
@@ -35,11 +35,13 @@ public class SelectionControlLab {
         System.out.println("num1 is greater than 10");
      
 
+        input.close();
+
         // Step 6: Write a nested if statement to check a more complex condition that only prints the following message if the conditions are met
-        if (/* condition */) {
-            if (/* nested condition */) {
-                System.out.println("num1 is greater than num2 and greater than 15");
-            }
-        }
+        // if (/* condition */) {
+        //     if (/* nested condition */) {
+        //         System.out.println("num1 is greater than num2 and greater than 15");
+        //     }
+        // }
     }
 }

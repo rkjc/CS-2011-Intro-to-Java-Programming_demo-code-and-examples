@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class GuessingGame01 {
     public static void main(String[] args) {
+        // currently not working correctly
+        // needs the logic debuged
+        
         Scanner zanner = new Scanner(System.in);
         String uguess = "";
         String numCheck = "";
@@ -91,6 +94,7 @@ public class GuessingGame01 {
 
         System.out.print("You picked the number "+numCheck);
 
+        zanner.close();
         
         System.out.println("-------- program ended ---------");
     } 

@@ -16,9 +16,7 @@ public class NestedIfElse01 {
                 System.out.println("variable b is greater than variable a");
         } else if (true){ 
                 System.out.println("variable b is greater than variable a");
-            }
-        }
-
+        }   
 
         System.out.println("------ program ended -------");
     } 
