@@ -1,51 +1,22 @@
 package BooleanDataTypeAndIfStatements;
 
-import java.util.Scanner;
-
 public class SwitchStatement01 {
     public static void main(String[] args) {
-        System.out.println("------ program is running -------");
+        System.out.println("------ SwitchStatement01 is running -------");
 
-        // int day = 2;
+        int bob = 0;
 
-        // switch (day) {    
-        //     case 1   :   
-        //         System.out.println("Monday");
-        //         break;
-        
-        //     case 2:
-        //         System.out.println("Tuesday");
-        //         break;
-        
-        //     case 3:
-        //         System.out.println("Wednesday");
-        //         break;
-        
-        //     default:
-        //         System.out.println("Invalid day");
-        // }
-
-        String str = "";
-        Scanner zanner = new Scanner(System.in);
-        System.out.print("input a value to check ");
-
-        str = zanner.nextLine();
-
-        switch (str){
-            case "s":
-                System.out.println("selected s");
+        switch (bob){
+            case 1:
+                System.out.println("yep it works, picked #1");
                 break;
-            
-            case "d":
-                System.out.println("selected d");
+            case 2:
+                System.out.println("yep also works, picked #2");
                 break;
 
-            case "z":
-                System.out.println("selected z");
-                break;
-        }
-
-        zanner.close();
+            default:
+                System.out.println("did the default, did not use 1 or 2");
+        } 
 
 
         System.out.println("-------- program ended ---------");

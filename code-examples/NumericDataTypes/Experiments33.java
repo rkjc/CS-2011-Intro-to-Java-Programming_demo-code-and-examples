@@ -6,19 +6,20 @@ public class Experiments33 {
 
         System.out.println("------ program 33 is alive -------");
 
-        int count = 1;
+        int count = 45;
+
         System.out.print(count + "  ");
 
-    
-        int blint = 2147483647;
-        System.out.println(blint);
-        blint++;
-        System.out.println(blint);
 
-        long singalong = 3312345676123454345L;
+        // int blint = 2147483647;
+        // System.out.println(blint);
+        // blint++;
+        // System.out.println(blint);
 
-        System.out.println(Long.MAX_VALUE);
-        // 9223372036854775807
+        // long singalong = 3312345676123454345L;
+
+        // System.out.println(Long.MAX_VALUE);
+        // // 9223372036854775807
 
         
     }
