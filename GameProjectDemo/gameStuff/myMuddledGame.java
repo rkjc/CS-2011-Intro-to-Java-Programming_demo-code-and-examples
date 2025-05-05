@@ -1,8 +1,6 @@
-import java.util.Scanner;
+package gameStuff;
 
-import java.util.Random;
-
-public class SuperSimple {
+public class myMuddledGame {
     
     public static void main(String[] args) {
         System.out.println("------ program is running -------");
@@ -13,5 +11,5 @@ public class SuperSimple {
 
         System.out.println("-------- program ended ---------");
     } 
-
+    
 }

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "GameEngineDemo"
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"gameEngineDemo/AdventureGE.jar"
+		]
+	}
+}

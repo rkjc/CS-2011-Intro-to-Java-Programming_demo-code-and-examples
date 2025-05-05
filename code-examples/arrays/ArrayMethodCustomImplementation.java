@@ -23,7 +23,6 @@ public class ArrayMethodCustomImplementation {
     } 
 
 
-
     public static void printArrayContents(int[] inarr){
         for(int i = 0; i < inarr.length; i++){
             System.out.print(inarr[i] + " ");

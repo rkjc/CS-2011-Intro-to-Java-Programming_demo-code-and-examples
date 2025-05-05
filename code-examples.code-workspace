@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "code-examples"
+		},
+		{
+			"path": "GameProjectDemo"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
